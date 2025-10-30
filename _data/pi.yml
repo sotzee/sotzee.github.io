@@ -1,21 +1,23 @@
-- name: Dr. Richard Feynman
+- name: Dr. Tianqi Zhao (赵天奇)
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  info: Postdoctoral Researcher, Ohio University
+  email: zhaot@ohio.edu
+  github: https://github.com/sotzee/
+  researchgate: https://www.researchgate.net/profile/Tianqi-Zhao-18
+  scholar: https://scholar.google.com/citations?user=hnSGFwIAAAAJ&hl
+  inspire: https://inspirehep.net/authors/2071604
   cv: cv/cv.pdf
   # Change the number below to the number of "educations" you have (up to 6)
-  number_educ: 2
-  education1: "(1942) Ph.D. Physics, Princeton University"
-  education2: "(1939) B.S. Physics, Massachusetts Institute of Technology"
-  # education3: 
-  # education4: 
+  number_educ: 4
+  education1: "(2023-now) Postdoc, University of California, Berkeley"
+  education2: "(2021-2023) Postdoc, Ohio University"
+  education3: "(2015-2021) Ph.D. Physics, Stony Brook University"
+  education4: "(2011-2015) B.S. Physics, Shanghai Jiao Tong University"
   # education5: 
-  # education6: 
-  education1short: (1942) Ph.D. Physics, Princeton
-  education2short: (1939) B.S. Physics, MIT
+  # education6:
+  number_educ_short: 2
+  education1short: (2021) Ph.D. Physics, SBU
+  education2short: (2015) B.S. Physics, SJTU
   # education3short: 
   # education4short: 
   # education5short: 
